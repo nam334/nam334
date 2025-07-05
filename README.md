@@ -4,7 +4,7 @@
 ---
 ### ✨ About Me
 
-- 🎯 Frontend Developer with **3.5+ years** of experience building scalable, accessible & responsive user interfaces
+- 🎯 Frontend Developer with **4.5+ years** of experience building scalable, accessible & responsive user interfaces
 - ⚛️ Skilled in **React.js**, **JavaScript**, and modern styling approaches including **SCSS**, **Tailwind CSS**, and **Material UI**
 - 🧠 Strong focus on **performance optimization**, **accessibility (a11y)**, and **UI consistency** across devices
 - 🔍 Experienced with techniques like **memoization**, **lazy loading**, and component-level caching to ensure smooth performance
